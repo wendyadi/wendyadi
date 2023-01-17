@@ -19,3 +19,8 @@ I build software with:
 - Go
 - NodeJS
 - PHP (Laravel)
+
+Tech stack i've worked with
+```
+AWS, NSQ, Kafka, Redis, PostgreSQL, MongoDB, Google Maps Platform, Javascript, HTML5, Postgis
+```
