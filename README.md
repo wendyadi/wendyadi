@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I build software with:
+I'm software engineer who build software with:
 - Go
 - NodeJS
 - PHP (Laravel)
 
-Tech stack i've worked with
-```
-AWS, NSQ, Kafka, Redis, PostgreSQL, MongoDB, Google Maps Platform, Javascript, HTML5, Postgis
-```
+💻 ProgramWith: Go, PHP, NodeJS
+📓 Database   : PostgreSQL, MongoDB, TimescaleDB, MySQL
