@@ -21,6 +21,6 @@ I'm Software Engineer who:
 - 📓 HadStoredDataIn PostgreSQL, MongoDB, TimescaleDB, MySQL
 - 🤔 Learning Blockchain, & Cosmos
 - 🌈 DesignedSystemWith Microservices, Cloud Services, CNCF stack
-- Happy to talk ways to make software engineering more impactful and fun
+- Happy to talk ways to make software engineering stay lean, impactful and fun
 - Focus on impact
 - Business and product savvy
