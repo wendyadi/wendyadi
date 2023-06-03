@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm software engineer who:
+I'm Software Engineer who:
 
 - 💻 ProgrammWith Go, PHP, NodeJS
 - 📓 HadStoredDataIn PostgreSQL, MongoDB, TimescaleDB, MySQL
