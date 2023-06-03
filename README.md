@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Software Engineer who:
 
-- 💻 ProgrammWith Go, PHP, NodeJS
+- 💻 ProgramWith Go, PHP, NodeJS
 - 📓 HadStoredDataIn PostgreSQL, MongoDB, TimescaleDB, MySQL
 - 🤔 Learning Blockchain, & Cosmos
 - 🌈 DesignedSystemWith Microservices, Cloud Services, CNCF stack
