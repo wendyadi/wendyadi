@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm software engineer who build software with:
-- Go
-- NodeJS
-- PHP (Laravel)
+I'm software engineer who:
 
-💻 ProgramWith: Go, PHP, NodeJS
-📓 Database   : PostgreSQL, MongoDB, TimescaleDB, MySQL
+- 💻 ProgrammWith Go, PHP, NodeJS
+- 📓 HadStoredDataIn PostgreSQL, MongoDB, TimescaleDB, MySQL
+- 🤔 Learning Blockchain, & Cosmos
