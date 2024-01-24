@@ -20,7 +20,7 @@ I'm Software Engineer who:
 - 💻 ProgramWith Go, PHP, NodeJS
 - 📓 HadStoredDataIn PostgreSQL, MongoDB, TimescaleDB, MySQL
 - 🤔 Learning Blockchain, DeFi & Cosmos
-- 🌈 DesignedSystemWith Microservices, Cloud Services, CNCF stack
+- 🌈 DesignedSystemWith Microservices, Cloud Services, CNCF tech
 - Happy to talk about ways to make software engineering team stay lean, impactful and fun
 - Focus on impact
 - Business and product savvy
