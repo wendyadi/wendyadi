@@ -24,3 +24,5 @@ I'm Software Engineer who:
 - Happy to talk about ways to make software engineering team stay lean, impactful and fun
 - Focus on impact
 - Business and product savvy
+
+I shared my knowledge in [wendyadi.github.io](https://wendyadi.github.io) (🇮🇩 Bahasa)
