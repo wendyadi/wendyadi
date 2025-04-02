@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I'm Software Engineer who:
 
-- 💻 ProgramWith Go, PHP, NodeJS
+- 💻 DeployedProdAppWith: Go, PHP, NodeJS
 - 📓 HadStoredDataIn PostgreSQL, MongoDB, TimescaleDB, MySQL
-- 🤔 Learning Blockchain, DeFi & Cosmos
-- 🌈 DesignedSystemWith Microservices, Cloud Services, CNCF tech
+- 🤔 Learning TradFi, Prompt Engineering
+- 🌈 DesignedSystemWith Microservices, AWS, CNCF tech
 - Happy to talk about ways to make software engineering team stay lean, impactful and fun
 - Focus on impact
 - Business and product savvy
