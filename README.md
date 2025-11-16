@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm Software Engineer who:
 
-- 💻 DeployedProdAppWith: Go, PHP, NodeJS
-- 📓 HadStoredDataIn: PostgreSQL, MongoDB, TimescaleDB, MySQL
+- 💻 DeployedProdAppIn: Go, Perl, NodeJS, PHP
+- 📓 UsedToStoreDataIn: PostgreSQL, MongoDB, TimescaleDB, MySQL
 - 🤔 Learning: TradFi, Prompt Engineering
 - 🌈 DesignedSystemWith: Microservices, AWS, CNCF tech
 - Happy to talk about ways to make software engineering team stay lean, impactful and fun
